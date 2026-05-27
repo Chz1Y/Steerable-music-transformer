@@ -29,7 +29,7 @@ This project introduces a lightweight, highly accurate conditioning mechanism ba
 4. Generate & Evaluate: Run `generate_samples.py` followed by `evaluate_and_plot.py` to reproduce the academic figures.
 
 ### 👨‍💻 Author
-**Ziyi Chen** Aspiring Electrical and Computer Engineering (ECE) & Computer Science researcher. Passionate about the intersection of deep learning, signal processing, and the arts. 
+**Ziyi Chen** Electrical and Computer Engineering (ECE) & Computer Science researcher. Passionate about the intersection of Robotics, Computer Science, and the arts. 
 
 ---
 
