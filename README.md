@@ -1,5 +1,3 @@
-# Steerable-music-transformer
-Official PyTorch implementation of "Steerable Rhythmic Complexity in Autoregressive Music Generation" (EI Accepted). A bar-level conditional micro-Transformer using REMI+ syntax for exact density control and harmonic decoupling.
 # Steerable Rhythmic Complexity in Autoregressive Music Generation 🎹🤖
 
 [![Paper Accepted](https://img.shields.io/badge/Paper-EI_Conference-success.svg)](#)
