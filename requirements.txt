@@ -1,0 +1,28 @@
+# ==============================================================================
+# Requirements for Steerable Music Transformer
+# Coordinated for reproducibility, compatibility, and production standards.
+# Recommended Environment: Python >= 3.9, <= 3.11
+# ==============================================================================
+
+# Core Deep Learning Framework
+torch>=2.1.0
+transformers>=4.36.0
+tokenizers>=0.15.0
+datasets>=2.15.0
+
+# Symbolic Music & MIDI Signal Processing
+pretty_midi>=0.2.10
+mido>=1.3.0
+
+# Scientific Computing & Data Numerical Operations
+numpy>=1.24.0,<2.0.0
+scipy>=1.11.0
+pandas>=2.1.0
+
+# Academic Data Visualization
+matplotlib>=3.8.0
+seaborn>=0.13.0
+
+# Computational Utilities & Logging
+tqdm>=4.66.0
+joblib>=1.3.0
